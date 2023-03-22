@@ -1,6 +1,9 @@
 # CrosshairPY
 Simple Crosshair Overlay in python
 
+This code draws a red center dot in the center of the primary monitor. You can adjust the color and thickness of the center dot by modifying the parameters of the CreatePen function. You can also adjust the position of the center dot by modifying the MoveToEx and LineTo functions.
+
+
 
 <h3 align="center">
 Hi there, I'm <a href="" target="_blank" rel="noreferrer">SL33PY</a> 👋
