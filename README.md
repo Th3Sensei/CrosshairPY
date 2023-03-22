@@ -10,7 +10,8 @@ Hi there, I'm <a href="" target="_blank" rel="noreferrer">SL33PY</a> 👋
 </h3>
 
 
-### 🤝 Installation: 
+### 🤝 Installation:
+  `pip install -r requirements.txt`
   `Run python crosshiar.py`
 
 
