@@ -7,10 +7,8 @@ Hi there, I'm <a href="" target="_blank" rel="noreferrer">SL33PY</a> 👋
 </h3>
 
 
-### 🤝 Installation:
-  `pip install -r requirements.txt`
-  
-  `Run python Gen.py`
+### 🤝 Installation: 
+  `Run python crosshiar.py`
 
 
 </br>
