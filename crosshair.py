@@ -76,4 +76,4 @@ def draw_crosshair():
 while True:
     draw_crosshair()
     if keyboard.is_pressed("q"):
-        break
+        quit()
