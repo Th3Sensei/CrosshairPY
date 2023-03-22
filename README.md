@@ -1,5 +1,5 @@
 # CrosshairPY
-Simple Crosshair in python
+Simple Crosshair Overlay in python
 
 
 <h3 align="center">
